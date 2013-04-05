@@ -1,0 +1,9 @@
+{
+  "name": "hueandcry",
+  "version": "0.0.1beta",
+  "description": "A game for hue",
+  "dependencies": {
+  	"chromath": "*"
+  }
+}
+
